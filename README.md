@@ -1,1 +1,1 @@
-Various projects written with python
+Various scripts written with python
